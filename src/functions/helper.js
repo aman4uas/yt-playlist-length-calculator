@@ -19,7 +19,7 @@ function getYTPlaylistID(playlistLink) {
     let regex = /(?:list=)([^&#]+)/;
     let match = playlistLink.match(regex);
     if (match && match[1]) return match[1];
-    else return "###########";
+    else throw new Error("Cannot find playlist ID !!");
 }
 
 function getPlaylistRequestLink(playlistLink) {
