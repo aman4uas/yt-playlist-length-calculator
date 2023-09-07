@@ -34,7 +34,8 @@ Provide users with essential playlist statistics like :
 
 ## Feedback/Bug Report
 
-If you have any feedback, or want to report any bug, please reach out to our Contact us Page on the [  Website ](https://yt-playlist-length-calculator.netlify.app).
+If you have any feedback, please reach out to me at amanhack4u@gmail.com.
 
+You can also reach out to me on our Contact us Page on the [  Website ](https://yt-playlist-length-calculator.netlify.app).
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1ucEonTvdfsWSsrsxVEY36J28cSQ78XaD)
+![Contact Us](https://drive.google.com/uc?export=view&id=1ucEonTvdfsWSsrsxVEY36J28cSQ78XaD)
