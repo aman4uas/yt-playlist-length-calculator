@@ -9,7 +9,9 @@
 
 
 ## Technology Used
-React, Tailwind CSS, Youtube Data API
+- React
+- Tailwind CSS
+- Youtube Data API
 
 
 ## Features
